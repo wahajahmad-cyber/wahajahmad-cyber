@@ -84,13 +84,13 @@
 
 ## 💡 Current Focus:
 
-- 🔭 Working on **Cloud Infrastructure Automation**
-- 🌱 Learning **Advanced Kubernetes** and **Service Mesh Technologies**
-- 👯 Looking to collaborate on **Open Source DevOps Tools**
-- 🤔 Exploring **GitOps** and **Platform Engineering**
-- 💬 Ask me about **AWS, Docker, Kubernetes, CI/CD**
-
+- 🚀 Improving real-world DevOps skills to support production-ready infrastructure.
+- 👯 Looking to collaborate on **Open Source DevOps Projects**
+- 🤔 Exploring GitOps and Platform Engineering
+- 💼 Focused on becoming more efficient in **cloud-native CI/CD** and **automation** practices
+- 🎯 Aiming to become a strong **DevOps engineer** 
 ---
+
 ## 📈 Contribution Graph:
 
 <div align="center">
