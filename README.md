@@ -65,7 +65,7 @@
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://metrics.lecoq.io/wahajahmad-cyber?template=classic&base.theme=github_dark&achievements=1&achievements.display=compact&achievements.threshold=C" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wahajahmad-cyber&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
