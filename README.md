@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+DevOps+Engineer+%7C+Cloud+Enthusiast;☁️+AWS+%7C+Azure+%7C+GCP+Specialist;🤖+CI%2FCD+Pipeline+Architec;🐳+Docker+%26+Kubernetes+Expert;📊+Infrastructure+Monitoring+Pro;🔧+Terraform+%26+Ansible+Automation;💻+Python+%7C+Bash+%7C+Go+Developer;🌟+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=👋+Hey+there!+I'm+Wahaj;🚀+Learning+DevOps+%26+Cloud;☁️+AWS+Enthusiast;🐳+Docker+%26+Kubernetes+Learner;💻+Python+%7C+Bash+Scripting;🌱+Open+to+New+Opportunities" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,15 +14,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-👨‍💻 **DevOps Engineer** passionate about bridging Development and Operations
+👨‍💻 **Aspiring DevOps Engineer** passionate about learning and growing
 
-🔧 **Empowering Innovation Through DevOps** | Mastering the Art of Scaling, Automating, and Orchestrating Modern Infrastructure
+🔧 **Learning DevOps practices** and exploring cloud technologies
 
-🌱 **Exploring Cloud Technologies and Infrastructure as Code**
+🌱 **Currently studying AWS, Docker, and Kubernetes**
 
-👨‍💻 **On the path to dive deep into DevOps and Cloud Architecture**
+👨‍💻 **Building projects to gain hands-on experience**
 
-⚡ **In my free time, I spend time learning new technologies and contributing to open source**
+⚡ **In my free time, I learn new technologies and work on personal projects**
 
 <br clear="both"/>
 
